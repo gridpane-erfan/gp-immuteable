@@ -1,6 +1,0 @@
-wp-config.php
-
-# ignore log files and databases
-*.log
-*.sql
-*.sqlite
